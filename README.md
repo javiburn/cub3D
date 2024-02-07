@@ -8,12 +8,12 @@ https://github.com/magnitopic/cub3D/assets/21156058/6b2e78cb-c995-4a24-b821-4925
 
 # Team work 💪
 
-This project was done alongside `Javier Sarabia`(JaviBurn).
+This project was done alongside `Alejandro Aparicio`(Magnitopic).
 Check him and his work out at these links:
 
--   [Linkedin](https://www.linkedin.com/in/javier-sarabia-224580195)
--   [GitHub](https://github.com/javiburn)
--   [42Intra](https://profile.intra.42.fr/users/jsarabia)
+-   [Linkedin](https://www.linkedin.com/in/magnitopic/?locale=es_ES)
+-   [GitHub](https://github.com/magnitopic)
+-   [42Intra](https://profile.intra.42.fr/users/alaparic)
 
 # Program
 
